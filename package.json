@@ -1,6 +1,6 @@
 {
   "name": "create-my-mern-frontend",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Mern setup in one line (React + Vite + Tailwind + Firebase)",
   "keywords": [
     "react",
