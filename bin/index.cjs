@@ -1,14 +1,13 @@
 #!/usr/bin/env node
 
-// শুধু এই এক লাইন দরকার (CommonJS)
-const { prompt } = require('inquirer');
-
+// Import inquirer dynamically since v9+ uses ESM
 const fs = require('fs-extra');
 const path = require('path');
 const { exec } = require('child-process-promise');
 
 async function main() {
-  const { projectName } = await prompt([
+  const { default: inquirer } = await import('inquirer');
+  const { projectName } = await inquirer.prompt([
     {
       type: 'input',
       name: 'projectName',
