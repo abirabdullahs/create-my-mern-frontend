@@ -1,0 +1,35 @@
+{
+  "name": "create-my-mern-frontend",
+  "version": "1.0.0",
+  "description": "Mern setup in one line (React + Vite + Tailwind + Firebase)",
+  "bin": {
+    "create-my-mern-frontend": "./bin/index.cjs"
+  },
+  "type": "commonjs",
+  "main": "bin/index.cjs",
+  "keywords": [
+    "react",
+    "vite",
+    "tailwind",
+    "firebase",
+    "mern",
+    "frontend",
+    "template",
+    "cli"
+  ],
+  "author": "Abir Abdullah <abirabdullah3491@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/abirabdullahs/create-my-mern-frontend",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abirabdullahs/create-my-mern-frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abirabdullahs/create-my-mern-frontend/issues"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.23",
+    "fs-extra": "^11.2.0",
+    "child-process-promise": "^2.2.1"
+  }
+}
