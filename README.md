@@ -25,12 +25,14 @@ Includes **React + Vite + Tailwind + Firebase + Axios + Zustand + React Query** 
 ```bash
 # Run the setup command
 npx create-my-mern-frontend
-
+```
 # Follow the prompts and enter your project name
 # Everything will be automatically configured for you!
 
+```bash
 cd your-project-name
 npm run dev
+```
 
 
 ✨ Features
@@ -45,12 +47,6 @@ npm run dev
 ⚙️ ESLint + Prettier – Code quality and formatting out of the box
 🧰 Pre-configured Project Structure – Everything organized and ready to go
 
-npx create-my-mern-frontend
-✔ Project name: my-awesome-app
-
-cd my-awesome-app
-npm run dev
-🎉 Your React + Vite + Tailwind app is ready to use!
 
 🧩 Tech Stack
 Category	Tools
