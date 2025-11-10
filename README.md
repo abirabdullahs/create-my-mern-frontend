@@ -35,31 +35,61 @@ npm run dev
 ```
 
 
-✨ Features
-✅ Vite + React 19 – Super-fast development with the latest React features
-🎨 Tailwind CSS + DaisyUI – Modern, responsive UI design system
-🔥 Firebase Auth – Built-in authentication support
-🧠 Zustand – Lightweight global state management
-🌐 Axios + React Query – Smart API handling and caching
-💫 Framer Motion – Beautiful animations made simple
-🔔 React Hot Toast – Elegant notifications
-🪶 Lucide Icons – Clean and modern icon set
-⚙️ ESLint + Prettier – Code quality and formatting out of the box
-🧰 Pre-configured Project Structure – Everything organized and ready to go
+## ✨ Features
 
+- **Vite + React 19**  
+  Super-fast development with the latest React features
 
-🧩 Tech Stack
-Category	Tools
-Frontend	React 19, Vite
-Styling	Tailwind CSS, DaisyUI
-State Management	Zustand
-Auth / Backend	Firebase
-Networking	Axios, React Query
-UI / Animations	Framer Motion, Lucide Icons, React Hot Toast
-Code Quality	ESLint, Prettier
+- **Tailwind CSS + DaisyUI**  
+  Modern, responsive UI design system
 
-📜 License
-MIT License © Abir Abdullah
+- **Firebase Auth**  
+  Built-in authentication support
 
-💖 Developed by
-Abir Abdullah[abirabdullah.me]
+- **Zustand**  
+  Lightweight global state management
+
+- **Axios + React Query**  
+  Smart API handling and caching
+
+- **Framer Motion**  
+  Beautiful animations made simple
+
+- **React Hot Toast**  
+  Elegant notifications
+
+- **Lucide Icons**  
+  Clean and modern icon set
+
+- **ESLint + Prettier**  
+  Code quality and formatting out of the box
+
+- **Pre-configured Project Structure**  
+  Everything organized and ready to go
+
+---
+
+## 🧩 Tech Stack
+
+| Category            | Tools                              |
+|---------------------|------------------------------------|
+| **Frontend**        | React 19, Vite                     |
+| **Styling**         | Tailwind CSS, DaisyUI              |
+| **State Management**| Zustand                            |
+| **Auth / Backend**  | Firebase                           |
+| **Networking**      | Axios, React Query                 |
+| **UI / Animations** | Framer Motion, Lucide Icons, React Hot Toast |
+| **Code Quality**    | ESLint, Prettier                   |
+
+---
+
+## 📜 License
+
+**MIT License** © [Abir Abdullah](https://abirabdullah.me)
+
+---
+
+## 💖 Developed by
+
+**[Abir Abdullah](https://abirabdullah.me)**  
+*Frontend Engineer • Open Source Enthusiast*
