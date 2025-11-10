@@ -92,4 +92,4 @@ npm run dev
 ## 💖 Developed by
 
 **[Abir Abdullah](https://abirabdullah.me)**  
-*Frontend Engineer • Open Source Enthusiast*
+*Competitive Programmer • Open Source Enthusiast*
