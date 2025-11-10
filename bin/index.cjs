@@ -1,7 +1,7 @@
+#!/usr/bin/env node
 
-import inquirer from 'inquirer';   
-const { prompt } = require('inquirer');  
-// -------------------------
+// শুধু এই এক লাইন দরকার (CommonJS)
+const { prompt } = require('inquirer');
 
 const fs = require('fs-extra');
 const path = require('path');
