@@ -1,6 +1,6 @@
 
 import inquirer from 'inquirer';   
-const { prompt } = require('inquirer');   
+const { prompt } = require('inquirer');  
 // -------------------------
 
 const fs = require('fs-extra');
